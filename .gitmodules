@@ -1,0 +1,3 @@
+[submodule "GraphQL-Demo"]
+	path = GraphQL-Demo
+	url = git@github.com:TokhirAsadov/GraphQL-Demo.git
