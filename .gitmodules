@@ -1,3 +1,6 @@
 [submodule "GraphQL-Demo"]
 	path = GraphQL-Demo
 	url = git@github.com:TokhirAsadov/GraphQL-Demo.git
+[submodule "Springboot-GraphQL-kickstart"]
+	path = Springboot-GraphQL-kickstart
+	url = git@github.com:TokhirAsadov/Springboot-GraphQL-kickstart.git
