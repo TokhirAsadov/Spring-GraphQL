@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GraphQL-Demo/GraphQL-Demo.iml" filepath="$PROJECT_DIR$/GraphQL-Demo/GraphQL-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-GraphQL-kickstart/Spring-Graphql-kickstart.iml" filepath="$PROJECT_DIR$/Springboot-GraphQL-kickstart/Spring-Graphql-kickstart.iml" />
     </modules>
   </component>
 </project>
