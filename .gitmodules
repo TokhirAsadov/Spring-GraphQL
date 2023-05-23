@@ -4,3 +4,6 @@
 [submodule "Springboot-GraphQL-kickstart"]
 	path = Springboot-GraphQL-kickstart
 	url = git@github.com:TokhirAsadov/Springboot-GraphQL-kickstart.git
+[submodule "spring-for-graphql-r2dbc"]
+	path = spring-for-graphql-r2dbc
+	url = git@github.com:TokhirAsadov/spring-for-graphql-r2dbc.git
